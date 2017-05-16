@@ -7,4 +7,4 @@ specifically https://www.thingiverse.com/download:968816 in a thickness appropri
  
 ### Printing
 
-Print in PLA or other flexible filament without support at approx 20% infil.
+Print in TPU or other flexible filament without support at approx 20% infil.
